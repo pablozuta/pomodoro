@@ -1,0 +1,5 @@
+### Pomodoro Python
+
+This program was created to help users manage their time using the Pomodoro Technique. The Pomodoro Technique is a time management method that involves working for a set amount of time, taking a short break, and then repeating this process until a task is completed.
+
+To use the Pomodoro program, simply run the script in your terminal and follow the prompts. You will be asked to enter the length of time you would like to work for (in minutes) and the length of your breaks (also in minutes). The program will then start a timer for your work period, during which a notification will be displayed to remind you to stay on task. When the work period is over, the program will display a notification indicating that it is time for a break. The program will then start a timer for your break period, and will continue to alternate between work and break periods until you stop the program.
